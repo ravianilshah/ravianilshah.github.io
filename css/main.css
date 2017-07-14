@@ -151,6 +151,13 @@ a.header:hover {
  text-align: center;
  font-family: 'Futura', sans-serif;
   }
+  
+.sharerow {
+  height: auto;
+  padding: 5px;
+  background-color: #000;
+  text-align: center;
+ }
 
 a.link-text.scrolldown {
   background-color: transparent;
