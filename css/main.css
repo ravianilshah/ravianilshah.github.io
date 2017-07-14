@@ -65,21 +65,21 @@ a.share-btn {
                 border: none;
                 padding: 5px;
                 width: 40px;
-                border-radius: 5px;
+                border-radius: 50%;
                 opacity: 1;
                 outline: none;
                 text-align: center;
             }
             a.share-btn:hover {
-              opacity: 0.5;
-              -webkit-transition: opacity .5s;
-                -moz-transition: opacity .5s;
-                  -ms-transition: opacity .5s;
-                    -o-transition: opacity .5s;
-                     transition: opacity .5s;
+              color: #FFF;
+              -webkit-transition: color 0.5s;
+                -moz-transition: color 0.5s;
+                  -ms-transition: color 0.5s;
+                    -o-transition: color 0.5s;
+                     transition: color 0.5s;
             }
             a.share-btn:focus  {
-              opacity: 1;
+             color: #000;
             }
             a.share-btn.twitter { background: #55acee; }
             a.share-btn.google-plus { background: #dd4b39; }
