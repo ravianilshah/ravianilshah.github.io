@@ -59,7 +59,7 @@ a.link-text.leftnavlinks.active {
   color: #fff;
 }
 
-.share-btn {
+a.share-btn {
                 display: inline-block;
                 color: #000;
                 border: none;
@@ -70,7 +70,7 @@ a.link-text.leftnavlinks.active {
                 outline: none;
                 text-align: center;
             }
-            .share-btn:hover {
+            a.share-btn:hover {
               opacity: 0.5;
               -webkit-transition: opacity .5s;
                 -moz-transition: opacity .5s;
@@ -78,16 +78,16 @@ a.link-text.leftnavlinks.active {
                     -o-transition: opacity .5s;
                      transition: opacity .5s;
             }
-            .share-btn:focus  {
+            a.share-btn:focus  {
               opacity: 1;
             }
-            .share-btn.twitter { background: #55acee; }
-            .share-btn.google-plus { background: #dd4b39; }
-            .share-btn.facebook { background: #3B5998; }
-            .share-btn.stumbleupon { background: #EB4823; }
-            .share-btn.reddit { background: #ff5700; }
-            .share-btn.linkedin    { background: #4875B4; }
-            .share-btn.email { background: #444444; }
+            a.share-btn.twitter { background: #55acee; }
+            a.share-btn.google-plus { background: #dd4b39; }
+            a.share-btn.facebook { background: #3B5998; }
+            a.share-btn.stumbleupon { background: #EB4823; }
+            a.share-btn.reddit { background: #ff5700; }
+            a.share-btn.linkedin    { background: #4875B4; }
+            a.share-btn.email { background: #444444; }
 
 ul.categories{
   link-style-type:none;
