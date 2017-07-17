@@ -563,7 +563,7 @@ body {
 .row.header {
     height: 100vh;
     max-width: none;
-    background-image: url("../Madison.JPG");
+    background-image: url("../Madison.jpg");
     background-position: center center;
     position: relative;
     background-size: cover;
