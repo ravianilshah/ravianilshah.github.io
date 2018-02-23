@@ -255,7 +255,7 @@ transition:background-color .5s,color .5s
 }
 
 h1.header {
-color:#FFF;
+color:#0F0F0F;
 letter-spacing:0;
 display:block;
 margin:5px;
@@ -282,8 +282,8 @@ display:none
 }
 
 .copyright {
-color:#FFF;
-background-color:#000;
+color:#0F0F0F;
+background-color:#FFF;
 font-size:10px;
 text-align:center;
 font-family:'Futura',sans-serif
@@ -322,7 +322,7 @@ transition:color .5s
 .sharerow {
 height:auto;
 padding:5px;
-background-color:#000;
+background-color:#FFF;
 text-align:center
 }
 
