@@ -1,7 +1,7 @@
 ---
 ---
 h2.section-header {
-color:#000;
+color:#FFF;
 text-transform:uppercase;
 text-align:left;
 letter-spacing:2px;
@@ -11,14 +11,14 @@ font-family:'Futura',sans-serif
 }
 
 p.paragraph {
-color:#000;
+color:#0F0F0F;
 text-align:left;
 font-size:18px;
 font-family:'Futura',sans-serif
 }
 
 p.email {
-color:#000;
+color:#0F0F0F;
 text-align:left;
 font-size:18px;
 font-style:italic;
@@ -32,13 +32,13 @@ top:0;
 left:0;
 width:100%;
 height:100%;
-background-color:#000
+background-color:#FFF
 }
 
 a.link-text.leftnavlinks {
 display:block;
 margin:5px;
-color:#FFF;
+color:#0F0F0F;
 text-transform:uppercase;
 letter-spacing:1px;
 text-decoration:none;
@@ -225,7 +225,7 @@ display:block;
 text-align:center;
 margin:5px;
 padding-left:5px;
-color:#000;
+color:#0F0F0F;
 text-transform:uppercase;
 letter-spacing:1px;
 font-size:12px;
@@ -771,7 +771,7 @@ line-height:35px;
 vertical-align:middle;
 text-align:center;
 height:35px;
-color:#FFF;
+color:#0F0F0F;
 -webkit-transition-duration:.8s;
 -moz-transition-duration:.8s;
 -o-transition-duration:.8s;
@@ -810,7 +810,7 @@ min-height:90vh
 
 body > .row.socialrow {
 max-width:none;
-background-color:#000;
+background-color:#FFF;
 text-align:center;
 height:auto;
 position:relative;
@@ -819,7 +819,7 @@ bottom:0
 
 .socialrow {
 max-width:none;
-background-color:#000;
+background-color:#FFF;
 text-align:center;
 height:auto;
 position:relative;
@@ -875,7 +875,7 @@ float:left
 }
 
 h1.header:hover {
-color:#FFF;
+color:#0F0F0F;
 background-color:transparent;
 -webkit-animation:flicker 2s infinite;
 -moz-animation:flicker 2s infinite;
@@ -911,12 +911,12 @@ height:30px;
 margin:5px;
 font-weight:200;
 float:right;
-color:#FFF;
+color:#0F0F0F;
 cursor:pointer
 }
 
 .navopen:hover {
-color:#FFF;
+color:##0F0F0F;
 -webkit-animation:flicker 2s infinite;
 -moz-animation:flicker 2s infinite;
 -ms-animation:flicker 2s infinite;
@@ -928,7 +928,7 @@ animation:flicker 2s infinite
 display:inline-block;
 z-index:1;
 width:100%;
-background-color:#000;
+background-color:#FFF;
 opacity:1;
 height:40px;
 position:fixed;
@@ -1020,7 +1020,7 @@ height:100%
 }
 
 body {
-background-color:rgba(255,255,255,0);
+background-color:#FFF;
 border:0;
 max-width:none;
 margin:0 auto;
