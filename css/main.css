@@ -294,7 +294,7 @@ display:none
 }
 
 .envelope-main {
-color:#000
+color:#0F0F0F
 }
 
 .envelope-main:hover {
@@ -317,7 +317,13 @@ color:#FFF;
 -moz-transition:color .5s;
 -ms-transition:color .5s;
 -o-transition:color .5s;
-transition:color .5s
+transition:color .5s;
+-webkit-transition:background-color .5s;
+-moz-transition:background-color .5s;
+-ms-transition:background-color .5s;
+-o-transition:background-color .5s;
+transition:background-color .5s
+
 }
 
 .sharerow {
