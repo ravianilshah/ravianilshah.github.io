@@ -1042,12 +1042,12 @@ margin:0 auto;
 border:0
 }
 
-gtbody{
+.gtbody{
 background-color:#fff3d1;
 height:100vh;
 height:100%;
 max-width:none;
-background-image:url(../Madison.jpg);
+background-image:url(../GTMB_banner.jpg);
 background-position:center center;
 position:relative;
 background-size:cover;
