@@ -1,0 +1,157 @@
+
+a.share-btn {
+display:inline-block;
+color:#000;
+border:none;
+padding:5px;
+width:35px;
+height:35px;
+border-radius:50%;
+opacity:1;
+outline:none;
+text-align:center;
+vertical-align:middle
+}
+
+a.share-btn:hover {
+color:#FFF;
+-webkit-transition:color .5s;
+-moz-transition:color .5s;
+-ms-transition:color .5s;
+-o-transition:color .5s;
+transition:color .5s
+}
+
+a.share-btn:focus {
+color:#000
+}
+
+a.share-btn.twitter {
+background:#00aced
+}
+
+a.share-btn.google-plus {
+background:#dd4b39
+}
+
+a.share-btn.facebook {
+background:#3B5998
+}
+
+a.share-btn.stumbleupon {
+background:#EB4823
+}
+
+a.share-btn.reddit {
+background:#ff5700
+}
+
+a.share-btn.linkedin {
+background:#007bb6
+}
+
+a.share-btn.email {
+background:#444
+}
+
+.copyright {
+color:#0F0F0F;
+background-color:#FFF;
+font-size:10px;
+text-align:center;
+font-family:'Futura',sans-serif
+}
+
+br {
+display:none
+}
+
+
+body {
+width:100%;
+height:100%;
+margin:0;
+padding:0;
+overflow-x:hidden;
+background-color:#fffd1;
+border:0;
+max-width:none;
+margin:0 auto;
+position:relative
+}
+
+.closebtn {
+float:right;
+top:0;
+margin-right:20px;
+font-size:20px;
+line-height:35px;
+vertical-align:middle;
+text-align:center;
+height:35px;
+color:#0F0F0F;
+-webkit-transition-duration:.8s;
+-moz-transition-duration:.8s;
+-o-transition-duration:.8s;
+transition-duration:.8s;
+-webkit-transition-property:-webkit-transform;
+-moz-transition-property:-moz-transform;
+-o-transition-property:-o-transform;
+transition-property:transform
+}
+
+.closebtn:hover {
+cursor:pointer;
+-webkit-transform:rotate(360deg);
+-moz-transform:rotate(360deg);
+-o-transform:rotate(360deg);
+transform:rotate(360deg)
+}
+
+
+html {
+line-height:1;
+height:100%;
+font-size:100%;
+-ms-text-size-adjust:100%;
+-webkit-font-smoothing:antialiased;
+-webkit-text-size-adjust:100%
+}
+
+div {
+direction:ltr;
+font-family:"Helvetica Neue",Helvetica,Helvetica,Arial,sans-serif;
+line-height:1.6
+}
+
+.gtbody{
+background-color:#fff3d1;
+height:100vh;
+height:100%;
+max-width:none;
+background-image:url(../GTMB_banner.jpg);
+background-position:center center;
+position:relative;
+background-size:contain;
+background-repeat:no-repeat
+}
+
+.gtfooter{
+height:auto;
+padding:5px;
+width:100%;
+max-width:none;
+background-color:#fff3d1;
+text-align:center;
+position: absolute;
+bottom: 0
+}
+
+.gtsharerow{
+color:#000000;
+background-color:#fff3d1;
+font-size:10px;
+text-align:center;
+font-family:'Futura',sans-serif
+}
+
