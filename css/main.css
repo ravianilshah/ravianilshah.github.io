@@ -1045,6 +1045,7 @@ border:0
 gtbody{
 background-color:#fff3d1;
 height:100vh;
+height:100%;
 max-width:none;
 background-image:url(../GTMB_banner.jpg);
 background-position:center center;
