@@ -92,9 +92,9 @@ z-index:1000
 }
 
 .gtbody{
-height:100%;
-width:100%;
-position:relative;
+min-height:100%;
+width:100vh;
+position:absolute;
 horizontal-align:middle;
 background-color:#fff3d1
 }
