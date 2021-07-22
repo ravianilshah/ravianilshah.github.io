@@ -82,6 +82,7 @@ line-height:1
 height:27px;
 width:100%;
 background-color:#fff3d1;
+font-size:25px;
 text-align:right;
 position:fixed;
 top:0;
@@ -94,7 +95,10 @@ z-index:1000
 .gtbody{
 min-height:100%;
 width:100%;
+margin-top:27px;
+padding-bottom:43px;
 position:absolute;
+vertical-align:top;
 horizontal-align:middle;
 background-color:#fff3d1
 }
@@ -102,6 +106,7 @@ background-color:#fff3d1
 .gtfooter{
 height:43px;
 bottom:0;
+left:0;
 width:100%;
 background-color:#fff3d1;
 text-align:center;
@@ -113,7 +118,7 @@ bottom:0
 .gtsharerow{
 color:#000000;
 background-color:#fff3d1;
-font-size:15px;
+font-size:18px;
 text-align:center;
 font-family:'Futura',sans-serif
 }
