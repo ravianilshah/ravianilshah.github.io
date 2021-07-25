@@ -50,7 +50,7 @@ position:relative
 color:#000;
 width:15px;
 height:17px;
-margin-right:5px;
+margin-right:10px;
 cursor:pointer
 }
 
@@ -123,6 +123,12 @@ text-align:center;
 font-family:'Futura',sans-serif
 }
 
+.gtcal{
+margin-left:50px;
+margin-right:50px;
+align:center
+}
+
 .overlay {
 height:0;
 width:100%;
@@ -139,7 +145,7 @@ transition:1s
 color:#000;
 width:15px;
 height:17px;
-margin-right:5px;
+margin-right:10px;
 cursor:pointer
 }
 
